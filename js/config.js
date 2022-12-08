@@ -117,12 +117,12 @@ const CONFIG = {
     },
     {
       category: 'Streaming',
-      name: 'Spotify',
-      key: 's',
-      url: 'https://open.spotify.com/',
+      name: 'Deezer',
+      key: 'd',
+      url: 'https://www.deezer.com/us/',
       search: '/search/{}',
-      color: '#1dd35e',
-      icon: 'spotify',
+      color: 'linear-gradient(135deg, #74498E, #CA2E61)',
+      icon: 'deezer',
       quickLaunch: false,
     },
     {
