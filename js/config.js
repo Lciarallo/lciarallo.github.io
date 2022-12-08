@@ -135,6 +135,15 @@ const CONFIG = {
       icon: 'lastfm',
       quickLaunch: false,
     },
+    {
+      category: 'Streaming',
+      name: 'DirectvGo',
+      key: 'dg',
+      url: 'https://www.directvgo.com/home/main',
+      color: 'linear-gradient(135deg, #00ABF3, #F5821F)',
+      icon: 'devdocs',
+      quickLaunch: false,
+    },
 
     {
       category: 'Social',
