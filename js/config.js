@@ -141,7 +141,7 @@ const CONFIG = {
       key: 'dg',
       url: 'https://www.directvgo.com/home/main',
       color: 'linear-gradient(135deg, #00ABF3, #F5821F)',
-      icon: 'devdocs',
+      icon: 'directv',
       quickLaunch: false,
     },
 
