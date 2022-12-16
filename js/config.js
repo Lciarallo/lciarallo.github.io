@@ -175,6 +175,18 @@ const CONFIG = {
       quickLaunch: false,
     },
 
+    {
+      category: 'General',
+      name: 'Gmail',
+      key: 'gm',
+      url: 'gmail.com',
+      color: '#ff0000',
+      icon: 'gmail',
+      quickLaunch: false,
+    },
+
+
+
 
   ],
 
