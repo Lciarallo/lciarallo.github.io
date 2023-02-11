@@ -9,8 +9,8 @@ const CONFIG = {
   commands: [{
       name: 'Linxer',
       key: '*',
-      url: 'https://linxer.org/search.php',
-      search: '/?q={}'
+      url: 'https://linxer.org/',
+      search: '/search.php?q={}'
     },
 
 
