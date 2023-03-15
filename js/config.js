@@ -189,10 +189,10 @@ const CONFIG = {
       key: 'm',
       url: 'https://moodle.ifsc.edu.br/',
       color: 'linear-gradient(135deg, #008000, #ff0000)',
-      icon: '1500chan',
+      icon: 'moodle',
       quickLaunch: false,
     },
-    
+
     
 
 
